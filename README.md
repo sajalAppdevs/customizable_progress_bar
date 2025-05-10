@@ -12,7 +12,7 @@ A highly customizable Flutter package that provides both linear and circular pro
 
 ## Demo
 
-![Progress Bar Demo](assets/demo.gif)
+https://github.com/user-attachments/assets/4d69fdcd-f6a7-4425-a1c0-d3582356671c
 
 The above demonstration shows both linear and circular progress bars in action with different customization options.
 
